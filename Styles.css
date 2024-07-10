@@ -1,0 +1,56 @@
+H1{
+  color:  #0C2D57;
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.subhead{
+  color: #0C2D57;
+    font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.first-element{
+    width: 100%;
+    height: 100vh;
+    background-image: url("Images/Bg.png");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+h2{
+   color:  #0C2D57;
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.image-proportion{
+  height: 150px;
+  width: 300sPX;
+  float: left;
+}
+.subhead1{
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+}
+.btn{
+  background: #0C2D57;
+  background-image: -webkit-linear-gradient(top, #0C2D57, #11999e);
+  background-image: -moz-linear-gradient(top, #0C2D57, #11999e);
+  background-image: -ms-linear-gradient(top, #0C2D57, #11999e);
+  background-image: -o-linear-gradient(top, #0C2D57, #11999e);
+  background-image: linear-gradient(to bottom, #0C2D57, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
